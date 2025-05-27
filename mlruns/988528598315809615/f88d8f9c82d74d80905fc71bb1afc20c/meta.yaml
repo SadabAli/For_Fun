@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/988528598315809615/f88d8f9c82d74d80905fc71bb1afc20c/artifacts
+end_time: 1748100123987
+entry_point_name: ''
+experiment_id: '988528598315809615'
+lifecycle_stage: active
+run_id: f88d8f9c82d74d80905fc71bb1afc20c
+run_name: enchanting-pug-522
+run_uuid: f88d8f9c82d74d80905fc71bb1afc20c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748100123814
+status: 4
+tags: []
+user_id: ENG. Sadab Ali

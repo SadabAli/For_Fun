@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/988528598315809615/34a5642539ce48ef852caf95151a9d01/artifacts
+end_time: 1748100561240
+entry_point_name: ''
+experiment_id: '988528598315809615'
+lifecycle_stage: active
+run_id: 34a5642539ce48ef852caf95151a9d01
+run_name: judicious-ray-763
+run_uuid: 34a5642539ce48ef852caf95151a9d01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748100540559
+status: 3
+tags: []
+user_id: ENG. Sadab Ali

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/988528598315809615/0eab748d3c8642feb05771b4e9f4f0f9/artifacts
+end_time: 1748100475685
+entry_point_name: ''
+experiment_id: '988528598315809615'
+lifecycle_stage: active
+run_id: 0eab748d3c8642feb05771b4e9f4f0f9
+run_name: shivering-sponge-176
+run_uuid: 0eab748d3c8642feb05771b4e9f4f0f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748100475491
+status: 4
+tags: []
+user_id: ENG. Sadab Ali
